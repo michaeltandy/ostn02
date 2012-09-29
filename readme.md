@@ -32,7 +32,7 @@ copy it and integrate it into your software, but they require attribution;
 for more info see [this documentation](http://www.ordnancesurvey.co.uk/oswebsite/gps/osnetfreeservices/furtherinfo/questdeveloper.html)
 The data is (c) Crown copyright 2002, All rights reserved.
 
-![Logo reading Ordnance Survey OSTN02 Enabled](src/main/resources/ostn006.jpg "OS logo")
+![Logo reading Ordnance Survey OSTN02 Enabled](src/main/resources/ostn005.jpg "OS logo")
 
 The java files that comprise the rest of this project are (c) Michael Tandy; 
 they are under the [MIT license](http://en.wikipedia.org/wiki/MIT_License).

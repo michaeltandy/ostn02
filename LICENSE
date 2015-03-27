@@ -1,0 +1,11 @@
+We can't do this conversion without using some Ordnance Survey data.
+
+The OSTN02 conversion table data is copyrighted by Ordnance Survey. 
+You can copy it and integrate it into your software, but they require 
+attribution; for more info see this documentation:
+http://www.ordnancesurvey.co.uk/oswebsite/gps/osnetfreeservices/furtherinfo/questdeveloper.html
+
+The data is (c) Crown copyright 2002, All rights reserved.
+
+The java files that comprise the rest of this project are (c) 2012 
+Michael Tandy; they are under the MIT license.
